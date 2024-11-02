@@ -1,4 +1,4 @@
-# SuvBlog
+![image](https://github.com/user-attachments/assets/d5c0e580-4318-4ea2-b5d0-6f7847195191)# SuvBlog
 
 Live website link: https://suv-blog.vercel.app
 
@@ -13,3 +13,4 @@ __Express.js__ for creating REST API, __MongoDB__ for database, __Tailwind CSS__
 
 ![Homepage Screenshot](frontend/public/screenshots/home1.png)
 
+![Homepage Screenshot](frontend/public/screenshots/home2.JPG)
