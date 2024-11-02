@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d5c0e580-4318-4ea2-b5d0-6f7847195191)# SuvBlog
+# SuvBlog
 
 Live website link: https://suv-blog.vercel.app
 
