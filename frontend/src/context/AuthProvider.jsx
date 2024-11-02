@@ -17,7 +17,7 @@ export const AuthProvider = ({ children }) => {
                 //console.log(parsedToken);
 
                 if (parsedToken) {
-                    const { data } = await axios.get("http://localhost:4001/api/users/my-profile", { // 'axios' is used to call backend APIs (http request)
+                    const { data } = await axios.get("https://suvblog.onrender.com/api/users/my-profile", { // 'axios' is used to call backend APIs (http request)
                         withCredentials: true, // includes cookies in the request
                         headers: { 'Content-Type': 'application/json' },
                     })
@@ -32,7 +32,7 @@ export const AuthProvider = ({ children }) => {
 
         const fetchBlogs = async () => {            
             try {
-                const { data } = await axios.get("http://localhost:4001/api/blogs/all-blogs", { // 'axios' is used to call backend APIs (http request)
+                const { data } = await axios.get("https://suvblog.onrender.com/api/blogs/all-blogs", { // 'axios' is used to call backend APIs (http request)
                     withCredentials: true, // includes cookies in the request
                     headers: { 'Content-Type': 'application/json' },
                 })
