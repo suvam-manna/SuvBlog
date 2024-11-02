@@ -36,3 +36,10 @@ __Express.js__ for creating REST API, __MongoDB__ for database, __Tailwind CSS__
 
 
 ### Register Page
+
+![Homepage Screenshot](frontend/public/screenshots/register.JPG)
+
+
+### Login Page
+
+![Homepage Screenshot](frontend/public/screenshots/login.JPG)
