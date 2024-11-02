@@ -33,3 +33,6 @@ __Express.js__ for creating REST API, __MongoDB__ for database, __Tailwind CSS__
 ### Contact Page
 
 ![Homepage Screenshot](frontend/public/screenshots/contact.JPG)
+
+
+### Register Page
