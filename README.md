@@ -14,3 +14,7 @@ __Express.js__ for creating REST API, __MongoDB__ for database, __Tailwind CSS__
 ![Homepage Screenshot](frontend/public/screenshots/home1.png)
 
 ![Homepage Screenshot](frontend/public/screenshots/home2.JPG)
+
+![Homepage Screenshot](frontend/public/screenshots/home3.JPG)
+
+![Homepage Screenshot](frontend/public/screenshots/home4.JPG)
