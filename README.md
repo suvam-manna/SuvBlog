@@ -43,3 +43,28 @@ __Express.js__ for creating REST API, __MongoDB__ for database, __Tailwind CSS__
 ### Login Page
 
 ![Homepage Screenshot](frontend/public/screenshots/login.JPG)
+
+
+### Admin Dashboard Page
+
+![Homepage Screenshot](frontend/public/screenshots/dashboard.JPG)
+
+
+### Create Blog Page
+
+![Homepage Screenshot](frontend/public/screenshots/createBlog.JPG)
+
+
+### Update Blog Page
+
+![Homepage Screenshot](frontend/public/screenshots/updateBlog.JPG)
+
+
+### Admin Profile Page
+
+![Homepage Screenshot](frontend/public/screenshots/profile.JPG)
+
+
+### Individual Blog Page
+
+![Homepage Screenshot](frontend/public/screenshots/blog.JPG)
