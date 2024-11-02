@@ -11,4 +11,4 @@ __Express.js__ for creating REST API, __MongoDB__ for database, __Tailwind CSS__
 
 ### Home Screen
 
-![Homepage Screenshot](frontend/public/screenshots/homepage.png)
+![Homepage Screenshot](frontend/public/screenshots/home1.png)
